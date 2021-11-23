@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Beatriz Rodrigues 👋
 
-- 🔭 Estagiária de Desenvolvimento de Software
+- 🔭 Estagiária em Desenvolvimento de Software
 - 🌱 Estudando JS, Python, 00 e alguns outros
 - 😄 Pronouns: ela/dela
 
