@@ -1,8 +1,8 @@
-### Oiii! Eu sou a Beatriz Rodrigues 👋
+### Beatriz Rodrigues 👩‍💻
 
 - 🔭 Estagiária em Desenvolvimento de Software
-- 🌱 Estudando JS, Python, 00 e alguns outros
-- 😄 Pronouns: ela/dela
+- 👾 Coding...
+- 😄 (ela/she/her)
 
 <div align="center">
   <a href="https://github.com/beatrizrodrgs">
