@@ -1,7 +1,7 @@
 ### Beatriz Rodrigues 👩‍💻
 
 - 🔭 Estagiária em Desenvolvimento de Software.
-- 👾 Graduanda em Ciências da Computação e Engenharia de Software. 
+- 👾 Graduanda em Ciência da Computação e Engenharia de Software. 
 - 😄 (ela/she/her).
 
 <div align="center">
