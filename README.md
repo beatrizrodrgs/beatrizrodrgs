@@ -1,8 +1,8 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Estagiária em Desenvolvimento de Software
-- 👾 Coding...
-- 😄 (ela/she/her)
+- 🔭 Estagiária em Desenvolvimento de Software.
+- 👾 Graduanda de Ciências da Computação e Engenharia de Software. 
+- 😄 (ela/she/her).
 
 <div align="center">
   <a href="https://github.com/beatrizrodrgs">
