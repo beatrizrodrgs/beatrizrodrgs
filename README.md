@@ -1,6 +1,6 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Estagiária em Desenvolvimento de Software.
+- 🔭 Apenas uma estagiária aprendendo Typescript e React.
 - 👾 Acadêmica em Ciência da Computação | Engenharia de Software. 
 - 😄 (ela/she/her).
 
