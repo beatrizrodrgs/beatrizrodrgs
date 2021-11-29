@@ -1,6 +1,7 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Apenas uma estagiária aprendendo Typescript e React.
+- 🔭 Apenas uma Estagiária.
+- 📚 Aprendendo React e Typescript.
 - 👾 Acadêmica em Ciência da Computação | Engenharia de Software. 
 - 😄 (ela/she/her).
 
