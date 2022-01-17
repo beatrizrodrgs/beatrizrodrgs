@@ -1,6 +1,6 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Apenas uma Estagiária curiosa.
+- 🔭 Apenas uma Estagiária.
 - 👾 Acadêmica em Ciência da Computação | Engenharia de Software. 
 - 😄 (ela/she/her).
 
