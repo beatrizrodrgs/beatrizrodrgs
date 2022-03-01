@@ -1,6 +1,6 @@
 ### Beatriz Rodrigues 👩‍💻
 
-- 🔭 Apenas uma Estagiária.
+- 🔭 Software Test Developer.
 - 👾 Acadêmica em Ciência da Computação | Engenharia de Software. 
 - 😄 (ela/she/her).
 
